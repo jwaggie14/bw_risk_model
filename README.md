@@ -1,7 +1,7 @@
 # bw_risk_model
 Demonstration Risk Model
 
-Go to <demonstration-bcm-model.herokuapp.com> to see a dashboard of results.
+Go to <https://demonstration-bcm-model.herokuapp.com> to see a dashboard of results.
 
 The dashboard code is in app.py.
 
